@@ -7,3 +7,6 @@ sudo apt-get install hydra
 sudo apt-get install nmap 
 sudo apt-get install ssh
 sudo apt-get install scp 
+sudo gem install net-ssh 
+sudo gem install colorize 
+sudo apt install sshfs
