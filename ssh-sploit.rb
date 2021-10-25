@@ -2,7 +2,6 @@
 require 'colorize'
 require 'net/ssh'
 require 'rubygems'
-require './waptools.so'
 
 HOST     = ARGV[0] || ''.empty?
 USER     = ARGV[1] || ''.empty?
@@ -40,35 +39,6 @@ def brute(host, user, wordlist)
     end
 end
 
-class RedRabbitScanner
-    def self.Scan(interface)
-        WAPTools::Scanner.new interface        
-      return scanner.Scan
-    end
-  end
-  
-  def main
-    while true
-      begin
-        aps = RedRabbitScanner::Scan "wlan0"
-        if aps.length > 0
-          aps.each do |ap|
-            if ap.nil?
-              next
-            end
-  
-            puts "SSID  -> #{ap.ssid}"
-            puts "BSSID -> #{ap.bssid}"
-            puts "Hertz -> #{ap.frequency}"
-          end
-        end
-      rescue => err
-        puts "Failed to scan -> #{err}"
-      ensure
-        sleep 5
-      end
-    end
-  end
   
 
 
