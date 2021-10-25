@@ -13,5 +13,9 @@ Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby
 
 | Command name  | Command Action |
 | ------------- | -------------- |
-| Content Cell  | Content Cell   |
-| Content Cell  | Content Cell   |
+| EXIT          | Exit script    |
+| SEND          | Send Scripts   |
+| SCRIPTS       | View Viruses   |
+| SEND          | Send Scripts   |
+| SEND          | Send Scripts   |
+
