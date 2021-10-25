@@ -11,11 +11,11 @@ Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby
 <br>
 # content menu 
 
-| Command name  | Command Action |
-| ------------- | -------------- |
-| EXIT          | Exit script    |
-| SEND          | Send Scripts   |
-| SCRIPTS       | View Viruses   |
-| SEND          | Send Scripts   |
-| SEND          | Send Scripts   |
+| Command name  | Command Action         |
+| ------------- | ---------------------- |
+| EXIT          | Exit script            |
+| SEND          | Send Scripts           |
+| SCRIPTS       | View Viruses           |
+| EXPORT DISPLAY| Export Display         |
+| BRUTE         | Attempts brute force   |
 
