@@ -1,5 +1,28 @@
 # SSH-Sploit-Ruby
 Possess and troll ssh users with ssh-sploit Version 2.0 rewritten in ruby 
+
+```
+   
+  ██▒   █▓ ██▓ ██▀███   █    ██   ██████   ██████  ██▓███   ██▓     ▒█████   ██▓▄▄▄█████▓
+ ▓██░   █▒▓██▒▓██ ▒ ██▒ ██  ▓██▒▒██    ▒ ▒██    ▒ ▓██░  ██▒▓██▒    ▒██▒  ██▒▓██▒▓  ██▒ ▓▒
+  ▓██  █▒░▒██▒▓██ ░▄█ ▒▓██  ▒██░░ ▓██▄   ░ ▓██▄   ▓██░ ██▓▒▒██░    ▒██░  ██▒▒██▒▒ ▓██░ ▒░
+   ▒██ █░░░██░▒██▀▀█▄  ▓▓█  ░██░  ▒   ██▒  ▒   ██▒▒██▄█▓▒ ▒▒██░    ▒██   ██░░██░░ ▓██▓ ░ 
+    ▒▀█░  ░██░░██▓ ▒██▒▒▒█████▓ ▒██████▒▒▒██████▒▒▒██▒ ░  ░░██████▒░ ████▓▒░░██░  ▒██▒ ░ 
+    ░ ▐░  ░▓  ░ ▒▓ ░▒▓░░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░░ ▒░▓  ░░ ▒░▒░▒░ ░▓    ▒ ░░   
+    ░ ░░   ▒ ░  ░▒ ░ ▒░░░▒░ ░ ░ ░ ░▒  ░ ░░ ░▒  ░ ░░▒ ░     ░ ░ ▒  ░  ░ ▒ ▒░  ▒ ░    ░    
+      ░░   ▒ ░  ░░   ░  ░░░ ░ ░ ░  ░  ░  ░  ░  ░  ░░         ░ ░   ░ ░ ░ ▒   ▒ ░  ░      
+       ░   ░     ░        ░           ░        ░               ░  ░    ░ ░   ░           
+      ░                                                                                  
+Posess SSH and fuck over SSH using Virus-Sploit                               Version-2.0 Ruby
+─────────────────────────────────────────────────────────────────────────────────────────────                                                
+[Help HELP for more info]    
+
+[?] Connected to Host > X.X.X.X@pep
+Virus-Sploit@pi>
+
+```
+
+
 # installation<br> 
 `git clone https://github.com/ArkAngeL43/SSH-Sploit-Ruby.git ; cd SSH-Sploit-Ruby ; chmod +x ./install.sh ; ./install.sh`
 <br>
